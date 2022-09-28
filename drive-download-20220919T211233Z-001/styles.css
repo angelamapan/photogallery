@@ -1,0 +1,388 @@
+html {
+    background-color: black;
+    font-family: Arial;
+}
+
+body {
+    width: 1310px;
+    margin: auto;
+    background-color: white;
+}
+
+/****************   HEADER  ****************/
+.header {
+    background-color: black;
+}
+h1 {
+    font-size: 40px;
+    color: #007D7B;
+    padding-left: 35px;
+    margin-bottom: 0px;
+    display: block;
+    float: left;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-right: 168px;
+    padding-top: 5px;
+    margin-top: 0px;
+}
+
+nav {
+	text-align: right;
+	padding-right: 35px;
+    display: block;
+    float: right;
+    height: 60px;
+    background-color: black;
+}
+
+nav li {
+  display:inline-block;
+  padding-bottom: 20px;
+  padding-left: 120px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+    font-size: 20px;
+}
+
+a:hover {
+	color: #007D7B;
+}
+
+/******************     MAIN    *******************/
+main {
+    clear: both;
+}
+
+.tk {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.about {
+    float: right;
+    margin-right: 20px;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.hello {
+    font-size: 20px;
+    width: 420px;
+    margin: 0px;
+    padding-bottom: 0px;
+    float: right;
+}
+
+.gallery {
+    margin-bottom: 0px;
+    padding-left: 20px;
+    font-size: 40px;
+    margin-top: 5px;
+}
+
+.highlights {
+    margin-top: 0px;
+    padding-top: 5px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.chile {
+    float: left;
+    width: 420px; 
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.guatemala  {
+    float: left;
+    width: 420px; 
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.hawaii {
+    float: left;
+    width: 420px;
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.iran {
+    float: left;
+    width: 420x;
+    height: 630px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.ireland {
+    float: left;
+    width: 420x;
+    height: 630px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.italy {
+    float: left;
+    width: 420x;
+    height: 630px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.moab {
+    float: left;
+    width: 420px;
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.rocky {
+    float: left;
+    width: 420px;
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.switz {
+    float: left;
+    width: 420px;
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.uk {
+    float: left;
+    width: 420px;
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.usa {
+    float: left;
+    width: 420px;
+    height: 281px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.wyoming {
+    float: left;
+    width: 420px;
+    height: 281px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+
+.chile1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-left-width: 10px;
+    left: 300px;
+}
+
+.guatemala1 {
+    width: 140px;
+    height: 100px;
+    position: absolute;
+    margin-top: 0px;
+    left: 735px;
+    color: white;
+}
+
+.hawaii1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 0px;
+    color: white;
+    right: 300px;
+    bottom: -150px;
+}
+
+.iran1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-left-width: 10px;
+    left: 300px;
+    bottom: -175px;
+}
+
+.ireland1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 0px;
+    left: 735px;
+    color: white;
+    left: 1050px;
+    bottom: -790px;
+}
+
+.italy1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-left-width: 10px;
+    left: 1175px;
+    bottom: -770px;
+    color: white;
+}
+
+.moab1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+    position: absolute;
+    border-left-width: 10px;
+    bottom: -1050px;
+    width: 140px;
+    left: 550px;
+    color: white;
+}
+
+.rocky1 {
+    height: 100px;
+    position: absolute;
+    margin-top: 0px;
+    left: 735px;
+    width: 200px;
+    color: black;
+    bottom: -820px;
+}
+
+.switz1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+    position: absolute;
+    border-left-width: 10px;
+    left: 1175px;
+    width: 140px;
+    color: black;
+    bottom: -1060px;
+}
+
+.uk1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+    position: absolute;
+    border-left-width: 10px;
+    width: 140px;
+    color: white;
+    bottom: -1350px;
+    left: 640px;
+    
+}
+
+.usa1 {
+    height: 100px;
+    position: absolute;
+    margin-top: 0px;
+    left: 735px;
+    width: 200px;
+    color: white;
+    bottom: -1120px;
+}
+
+.wyoming1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+    position: absolute;
+    border-left-width: 10px;
+    left: 1175px;
+    width: 140px;
+    color: white;
+    bottom: -1100px;
+}
+/******************     FOOTER      *********************/
+footer {
+    text-align: center;
+    clear: both;
+    background-color: black;
+}
+
+label {
+    color: white;
+    padding-right: 810px;
+}
+.message {
+    color: white;
+    padding-right: 780px;
+}
+.contact {
+    font-size: 40px;
+    color: white;
+    margin-bottom: 0px;
+}
+
+.please {
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.submit {
+    background-color: #007d7b;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    width: 420px;
+    height: 30px;
+}
+
+input {
+    width: 850px;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-right: 0px;
+}
+
+input::placeholder {
+    color: #007D7B;
+    font-size: 16px;
+}
+
+.copyright {
+    margin-top: 40px;
+    color: white;
+    font-size: 16px;
+}
